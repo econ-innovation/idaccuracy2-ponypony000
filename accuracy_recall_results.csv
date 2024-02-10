@@ -1,0 +1,101 @@
+file_name,uniqueid,precision,recall
+0_100xunying-liu_aminer.cnprofilexunying-liu53f441dbdabfaeecd699e645.csv,0_100,0,0
+0_101zijian-zheng_aminer.cnprofilezijian-zheng560f0ef845cedb33976ed580.csv,0_101,0.10984848484848485,0.34523809523809523
+0_102huanchen-wang_aminer.cnprofilehuanchen-wang63798942f789b382be9ad6a4.csv,0_102,0.07058823529411765,0.13953488372093023
+0_103xu-ding_aminer.cnprofilexu-ding5630ea9445ceb49c5ddfc510.csv,0_103,0.07142857142857142,0.2
+0_104nan-hao_aminer.cnprofilenan-hao63ae510f7d3ea0c54a78191c.csv,0_104,0.17777777777777778,0.36363636363636365
+0_105Jialiang Wang_aminer.cnprofilejialiang-wang6327412ba95e4d1d05566e98.csv,0_105,0.1111111111111111,0.11764705882352941
+0_105Wang Jialiang_aminer.cnprofilewang-jialiang5614849045ce1e596345c902.csv,0_105,0.25,0.11764705882352941
+0_107yiwen-chen_aminer.cnprofileyiwen-chen5630906c45cedb3399abd7ce.csv,0_107,0.15384615384615385,0.07142857142857142
+0_107yiwen-chen_aminer.cnprofileyiwen-chen6325c3d9293b827d857775dc.csv,0_107,0.07936507936507936,0.17857142857142858
+0_110shan-zha_aminer.cnprofileshan-zha60bf246a6750f85387769829.csv,0_110,0.10666666666666667,0.22857142857142856
+0_111jiangwen-zhang_aminer.cnprofilejiangwen-zhang5613e01445ce1e5963275da3.csv,0_111,0.2,0.29411764705882354
+0_114huafeng-xie_aminer.cnprofilehuafeng-xie60dadfe19e795e60d9aea630.csv,0_114,0.21428571428571427,0.2727272727272727
+0_115liao-jun_aminer.cnprofileliao-jun5614657645ce1e59633e9e52.csv,0_115,0,0
+0_116guang-yao_aminer.cnprofileguang-yao6411566f51f0c0b04736eb8b.csv,0_116,0.17073170731707318,0.3181818181818182
+0_117ning-liu_aminer.cnprofilening-liu54485c27dabfae87b7e12abd.csv,0_117,0.14666666666666667,0.34375
+0_118Chen Zhang_aminer.cnprofilechen-zhang63273f61a95e4d1d0556584b.csv,0_118,0,0
+0_118Chen Zhang_aminer.cnprofilechen-zhang63273f61a95e4d1d05565855.csv,0_118,0,0
+0_122yongjie-yang_aminer.cnprofileyongjie-yang542a6ed8dabfae61d497cb72.csv,0_122,0,0
+0_124Tang Yizhe_aminer.cnprofiletang-yizhe560e96fe45ce1e59614efb46.csv,0_124,0,0
+0_128zhou-zhang_aminer.cnprofilezhou-zhang6170d8fd6750f87d918c459c.csv,0_128,0.3333333333333333,0.058823529411764705
+0_130Baile Zhang_aminer.cnprofilebaile-zhang53f4cf1ddabfaeedd277caeb.csv,0_130,0.17254901960784313,0.5641025641025641
+0_130Baile Zhang_aminer.cnprofilebaile-zhang61404cfc9e795ef43fb518fc.csv,0_130,0.23076923076923078,0.038461538461538464
+0_137ni-ni_aminer.cnprofileni-ni616d52d96750f855b45ea9b4.csv,0_137,0.08056872037914692,0.14049586776859505
+0_138weitao-dai_aminer.cnprofileweitao-dai53f42cc6dabfaedce54bc468.csv,0_138,0.2727272727272727,0.6
+0_13luqiao-liu_aminer.cnprofileluqiao-liu53f3647edabfae4b3499472f.csv,0_13,0.1891891891891892,0.6363636363636364
+0_141Xiaopeng Zong_aminer.cnprofilexiaopeng-zong54083478dabfae92b422f753.csv,0_141,0.075,0.15789473684210525
+0_141Xiaopeng Zong_aminer.cnprofilexiaopeng-zong62aadb8dd9f2040d085e3e9a.csv,0_141,0,0
+0_141Zong Xiaopeng_aminer.cnprofilezong-xiaopeng560b9c4645ce1e596026fd59.csv,0_141,0,0
+0_142Xiaodong Xu_aminer.cnprofilexiaodong-xu561a252d45ce1e596458da03.csv,0_142,0.1095890410958904,0.3883495145631068
+0_142Xiaodong Xu_aminer.cnprofilexiaodong-xu561d249f45ce1e596475b57f.csv,0_142,0.09090909090909091,0.019417475728155338
+0_143Cui Meng_aminer.cnprofilecui-meng56272ecc45ce1e596580ac04.csv,0_143,0,0
+0_143Meng Cui_aminer.cnprofilemeng-cui5631eed645cedb3399f63c03.csv,0_143,0.23529411764705882,0.38095238095238093
+0_144Xiulin Ruan_aminer.cnprofilexiulin-ruan53f42c62dabfaee02ac52086.csv,0_144,0.21238938053097345,0.4897959183673469
+0_146Sun Yuze_aminer.cnprofilesun-yuze562fe9c145ce1e596830517b.csv,0_146,0,0
+0_146Yuze Sun_aminer.cnprofileyuze-sun53f42c76dabfaee1c0a2582f.csv,0_146,0.09210526315789473,0.3888888888888889
+0_148Zhilei Chen_aminer.cnprofilezhilei-chen53f4361adabfaee2a1ce435d.csv,0_148,0.06896551724137931,0.14814814814814814
+0_149Liangfang Zhang_aminer.cnprofileliangfang-zhang53f4525edabfaedf435fbf25.csv,0_149,0.04630969609261939,0.1871345029239766
+0_14Yongtao Cui_aminer.cnprofileyongtao-cui53f4552bdabfaeecd69e6a21.csv,0_14,0.14102564102564102,0.4782608695652174
+0_150Deyu Lu_aminer.cnprofiledeyu-lu53f4386fdabfaee4dc795d31.csv,0_150,0.17525773195876287,0.4594594594594595
+0_150Deyu Lu_aminer.cnprofiledeyu-lu64255bb3e8e2470001724d16.csv,0_150,0,0
+0_151Yu Yan_aminer.cnprofileyu-yan5612429445ce1e5962b96141.csv,0_151,0.07017543859649122,0.15384615384615385
+0_154Ju Han_aminer.cnprofileju-han53f3a61cdabfae4b34ad9f5c.csv,0_154,0,0
+0_156Kaixuan Ni_aminer.cnprofilekaixuan-ni53f4c289dabfaedce565c2b5.csv,0_156,0.3023255813953488,0.2
+0_156Kaixuan Ni_aminer.cnprofilekaixuan-ni63ae510f7d3ea0c54a781b65.csv,0_156,0.25316455696202533,0.3076923076923077
+0_157Meifeng Lin_aminer.cnprofilemeifeng-lin637c6ecaf789b382beadf6ec.csv,0_157,0,0
+0_158Wei Peng_aminer.cnprofilewei-peng560d400745ce1e5960bb1743.csv,0_158,0.15873015873015872,0.47619047619047616
+0_159Zheng Yang_aminer.cnprofilezheng-yang53f4ae54dabfaedd74eb9214.csv,0_159,0,0
+0_15Chen Wang_aminer.cnprofilechen-wang53f6452adabfaed4ff0f3fba.csv,0_15,0.16666666666666666,0.5
+0_161Guichuan Yu_aminer.cnprofileguichuan-yu53f4457ddabfaeee229f3f81.csv,0_161,0.05813953488372093,0.20833333333333334
+0_164Yongmin Liu_aminer.cnprofileyongmin-liu5601a41c45cedb3395e839ba.csv,0_164,0.16417910447761194,0.3333333333333333
+0_165Cenke Xu_aminer.cnprofilecenke-xu560f1bc845cedb33976f69f8.csv,0_165,0.34759358288770054,0.6565656565656566
+0_166Yabing Qi_aminer.cnprofileyabing-qi561e30e545ce1e59648c377c.csv,0_166,0.25210084033613445,0.5405405405405406
+0_167Rong Fan_aminer.cnprofilerong-fan5405db98dabfae450f3dae98.csv,0_167,0.07446808510638298,0.25925925925925924
+0_168Tianshu Li_aminer.cnprofiletianshu-li562de0e245ce1e5967b12739.csv,0_168,0.21951219512195122,0.3333333333333333
+0_16Ding Keying_aminer.cnprofileding-keying560a771c45ce1e595fcd2129.csv,0_16,0,0
+0_16Keying Ding_aminer.cnprofilekeying-ding53f4634cdabfaedf43639bce.csv,0_16,0.18518518518518517,0.29411764705882354
+0_170Qing He_aminer.cnprofileqing-he63997da20446fbdd013cc480.csv,0_170,0.2073170731707317,0.3333333333333333
+0_171Qin Zhou_aminer.cnprofileqin-zhou56316b1c45cedb3399de6a20.csv,0_171,0.20833333333333334,0.25
+0_171Qin Zhou_aminer.cnprofileqin-zhou638b0f1ecba47807f61ad77b.csv,0_171,0.25,0.05
+0_172ziliang-ye_aminer.cnprofileziliang-ye619326886750f87a2dbb1bc3.csv,0_172,0,0
+0_173Xunxiang Hu_aminer.cnprofilexunxiang-hu641a04a8b98f250001b12f57.csv,0_173,0,0
+0_18He Lilin_aminer.cnprofilehe-lilin562bf14345cedb3398b9bb8e.csv,0_18,0.21,0.3181818181818182
+0_19Fenghai Guo_aminer.cnprofilefenghai-guo632856e730241ae3e5a8c59c.csv,0_19,0,0
+0_19Guo Fenghai_aminer.cnprofileguo-fenghai560bedaf45ce1e596048948c.csv,0_19,0,0
+0_19Guo Fenghai_aminer.cnprofileguo-fenghai562d41e945ce1e5967820fbf.csv,0_19,0,0
+0_20Fuzhong Zhang_aminer.cnprofilefuzhong-zhang53f43ab9dabfaee2a1d103a4.csv,0_20,0.06521739130434782,0.15789473684210525
+0_24Na Zhang_aminer.cnprofilena-zhang63247dadc03fbd5be1f85d64.csv,0_24,0,0
+0_24Zhang Na_aminer.cnprofilezhang-na56150bcf45ce1e59635cb963.csv,0_24,0,0
+0_25Zhang Qibin_aminer.cnprofilezhang-qibin561782e845ce1e5963dee255.csv,0_25,0,0
+0_26Bin Chen_aminer.cnprofilebin-chen53f556b8dabfaea7cd1d5b4f.csv,0_26,0.12903225806451613,0.5333333333333333
+0_27Mei Han_aminer.cnprofilemei-han637222a8ec88d95668cb08d6.csv,0_27,1,0.14285714285714285
+0_28Wang Hailong_aminer.cnprofilewang-hailong562ba18745cedb3398ae1b95.csv,0_28,0.14222222222222222,0.4266666666666667
+0_29Yuekui Yang_aminer.cnprofileyuekui-yang62aad948d9f2040d085e1a5f.csv,0_29,0.12244897959183673,0.21428571428571427
+0_2Yi Ni_aminer.cnprofileyi-ni53f43741dabfaedce5536e2c.csv,0_2,0.48,0.46153846153846156
+0_30Yi Deng_aminer.cnprofileyi-deng53f4627cdabfaedd74e59f53.csv,0_30,0.23943661971830985,0.5151515151515151
+0_36Dejing Dou_aminer.cnprofiledejing-dou53f4e89edabfaefe7777b42d.csv,0_36,0.003367003367003367,0.08333333333333333
+0_37Jianjun Hu_aminer.cnprofilejianjun-hu53f7e949dabfae92b40f21b5.csv,0_37,0.07017543859649122,0.35555555555555557
+0_39Baijian Yang_aminer.cnprofilebaijian-yang562fe97b45cedb339985baf1.csv,0_39,0,0
+0_39baijian-yang_aminer.cnprofilebaijian-yang53f43195dabfaec09f1499a4.csv,0_39,0,0
+0_3Zhaowei Liu_aminer.cnprofilezhaowei-liu5612b2b245cedb339795a92f.csv,0_3,0.2372093023255814,0.46788990825688076
+0_51Jiwei Lu_aminer.cnprofilejiwei-lu53f452bbdabfaee02ad4aca5.csv,0_51,0.16981132075471697,0.6545454545454545
+0_52Hongbo Zeng_aminer.cnprofilehongbo-zeng53f42cfedabfaedd74d31190.csv,0_52,0.16695652173913045,0.401673640167364
+0_57Wei Wang_aminer.cnprofilewei-wang53f49e94dabfaec18e77b465.csv,0_57,0,0
+0_5Wu Xifan_aminer.cnprofilewu-xifan5617e64145ce1e5963eac741.csv,0_5,1,0.02631578947368421
+0_5Xifan Wu_aminer.cnprofilexifan-wu53f43ae2dabfaee43ec5b583.csv,0_5,0.22018348623853212,0.631578947368421
+0_60Shuman Xia_aminer.cnprofileshuman-xia53f430d2dabfaedf43542154.csv,0_60,0.2702702702702703,0.47619047619047616
+0_66Wenxin Liu_aminer.cnprofilewenxin-liu5448773adabfae87b7e29eab.csv,0_66,0.0967741935483871,0.2571428571428571
+0_66Wenxin Liu_aminer.cnprofilewenxin-liu5448773adabfae87b7e29eae.csv,0_66,0.16666666666666666,0.05714285714285714
+0_67Yi Long_aminer.cnprofileyi-long5440d5e4dabfae805a6fdafc.csv,0_67,0.1791907514450867,0.38271604938271603
+0_74Cheng Chen_aminer.cnprofilecheng-chen5448e846dabfae87b7e91a2c.csv,0_74,0.22033898305084745,0.5
+0_75Kuilin Zhang_aminer.cnprofilekuilin-zhang54591044dabfaeb0fe2d5255.csv,0_75,0.03636363636363636,0.2222222222222222
+0_76Jianliang Xiao_aminer.cnprofilejianliang-xiao562a7a5045cedb3398924920.csv,0_76,0.2571428571428571,0.43548387096774194
+0_77Leidong Mao_aminer.cnprofileleidong-mao53f432e4dabfaee4dc75ee81.csv,0_77,0.23404255319148937,0.3793103448275862
+0_77Leidong Mao_aminer.cnprofileleidong-mao562f07fe45cedb33994de1a4.csv,0_77,0,0
+0_80Qinjun Kang_aminer.cnprofileqinjun-kang53f43e71dabfaedd74dd9290.csv,0_80,0.19158878504672897,0.4659090909090909
+0_82Jun Chen_aminer.cnprofilejun-chen543105e7dabfae8f291256cd.csv,0_82,0,0
+0_83Cheng Yu_aminer.cnprofilecheng-yu542d770bdabfae11fc473a66.csv,0_83,0.1111111111111111,0.11363636363636363
+0_92Bo Huang_aminer.cnprofilebo-huang54054c83dabfae92b41c06bc.csv,0_92,0.08035714285714286,0.14285714285714285
+0_98Jie Gong_aminer.cnprofilejie-gong53f4559cdabfaee43ecb9ddf.csv,0_98,0.027868852459016394,0.6296296296296297
+0_9Peng Yin_aminer.cnprofilepeng-yin561e7e2745ce1e59649344a7.csv,0_9,0.1390728476821192,0.30434782608695654
